@@ -1,0 +1,5 @@
+.idea/
+.tool-versions
+venv/
+__pychache__/
+.env
